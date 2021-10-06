@@ -1,1 +1,1 @@
-python passeword_generator.py
+python password_generator.py
